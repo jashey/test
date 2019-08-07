@@ -4,4 +4,4 @@ git is a little difficity for me.
 git has a mutable index called stage.
 git tracks changes.
 git add a newline.
-creating a new branch is quick.
+creating a new branch is quick & simple.
