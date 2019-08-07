@@ -6,4 +6,5 @@ git tracks changes.
 git add a newline.
 creating a new branch is quick and simple.
 add merge.
+hello everyone
 
